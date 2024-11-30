@@ -3,10 +3,10 @@ Voice Assistant
 
 You will need the following libraries for the implementation:
 
-speech_recognition (for speech-to-text)
-pyttsx3 (for text-to-speech conversion)
-pyaudio (for microphone access)
-colorama (for adding fomts style color text)
+speech_recognition (for speech-to-text), 
+pyttsx3 (for text-to-speech conversion), 
+pyaudio (for microphone access), 
+colorama (for adding fomts style color text).
 
 
 To install these libraries, you can use pip:
